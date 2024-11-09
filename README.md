@@ -98,7 +98,6 @@ To replicate the projects, use the following Python packages:
     keras
     matplotlib
 
-Run pip install -r requirements.txt to install all dependencies.
 Author
 
 This repository is maintained by Walid Oubraim, showcasing various projects in AI and Machine Learning for educational and professional purposes.
