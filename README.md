@@ -1,6 +1,8 @@
 # ML-Lab-Projects
 This repository contains a series of projects demonstrating various techniques and models in Machine Learning (ML) and Artificial Intelligence (AI). Each notebook focuses on a specific aspect of ML, from data preprocessing to advanced deep learning models. These projects aim to showcase the breadth of my skills and expertise in the field, as well as my ability to implement and explain ML workflows.
+
 Project List
+
 1. Data Preprocessing
 
     Description: This notebook covers essential data preprocessing techniques, which are crucial for preparing data for ML models. Techniques include handling missing values, encoding categorical variables, and scaling features.
@@ -100,4 +102,4 @@ To replicate the projects, use the following Python packages:
 
 Author
 
-This repository is maintained by Walid Oubraim, showcasing various projects in AI and Machine Learning for educational and professional purposes.
+This repository is maintained by Walid Oubraim.
