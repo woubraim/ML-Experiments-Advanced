@@ -36,33 +36,49 @@ Project List
 6. Heart Disease Classification
 
     Description: A classification model is built to predict the presence of heart disease based on various health indicators.
-    Key Techniques: Decision Trees, Random Forest, and model evaluation metrics like accuracy, precision, and recall.
+   
+    Key Techniques:
 
-7. Artificial Neural Network (ANN)
+       Decision Trees
+       Random Forest,
+       Model evaluation metrics like accuracy, precision, and recall.
+
+8. Artificial Neural Network (ANN)
 
     Description: This notebook introduces Artificial Neural Networks, implementing a basic ANN for binary classification tasks.
+   
     Key Sections:
+   
         Network architecture design
         Model training with backpropagation
         Evaluation of model performance
 
-8. Convolutional Neural Network (CNN) on CIFAR-10
+10. Convolutional Neural Network (CNN) on CIFAR-10
 
     Description: A CNN model is built and trained on the CIFAR-10 dataset, a widely used dataset for image classification tasks.
+    
     Key Sections:
+    
         Model architecture using convolutional layers
         Training and validation on CIFAR-10
         Evaluation of model accuracy
 
-9. CNN with Transfer Learning
+12. CNN with Transfer Learning
 
     Description: This project demonstrates transfer learning by using a pre-trained model and fine-tuning it for a specific image classification task.
-    Key Techniques: Feature extraction, model fine-tuning, and comparison of performance with and without transfer learning.
+    
+    Key Techniques:
 
-10. CNN with Data Augmentation
+        Feature extraction
+        Model fine-tuning
+        Comparison of performance with and without transfer learning.
+
+14. CNN with Data Augmentation
 
     Description: A CNN model is enhanced by applying data augmentation techniques to improve model generalization on image data.
+    
     Key Sections:
+    
         Image augmentation techniques (rotation, flipping, scaling)
         Model training with augmented data
         Performance comparison with non-augmented model
