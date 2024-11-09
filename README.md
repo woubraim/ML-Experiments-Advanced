@@ -6,11 +6,12 @@ Project List
     Description: This notebook covers essential data preprocessing techniques, which are crucial for preparing data for ML models. Techniques include handling missing values, encoding categorical variables, and scaling features.
 
    Key Sections:
-        Importing the dataset
-        Handling missing values (dropna, fillna, Scikit-Learn)
-        Encoding categorical data (ColumnTransformer, pd.get_dummies, LabelEncoder)
-        Splitting the dataset
-        Feature scaling (Standard Scaler)
+
+       Importing the dataset
+       Handling missing values (dropna, fillna, Scikit-Learn)
+       Encoding categorical data (ColumnTransformer, pd.get_dummies, LabelEncoder)
+       Splitting the dataset
+       Feature scaling (Standard Scaler)
 
 3. Diabetes Prediction
 
