@@ -21,17 +21,19 @@ Project List
 4. Linear Regression
 
     Description: This project demonstrates a simple linear regression model to predict a target variable based on a single or multiple predictors.
+   
     Key Sections:
+   
         Data exploration
         Model training and testing
         Model evaluation using metrics such as Mean Squared Error (MSE)
 
-5. Heart Disease Classification
+6. Heart Disease Classification
 
     Description: A classification model is built to predict the presence of heart disease based on various health indicators.
     Key Techniques: Decision Trees, Random Forest, and model evaluation metrics like accuracy, precision, and recall.
 
-6. Artificial Neural Network (ANN)
+7. Artificial Neural Network (ANN)
 
     Description: This notebook introduces Artificial Neural Networks, implementing a basic ANN for binary classification tasks.
     Key Sections:
@@ -39,7 +41,7 @@ Project List
         Model training with backpropagation
         Evaluation of model performance
 
-7. Convolutional Neural Network (CNN) on CIFAR-10
+8. Convolutional Neural Network (CNN) on CIFAR-10
 
     Description: A CNN model is built and trained on the CIFAR-10 dataset, a widely used dataset for image classification tasks.
     Key Sections:
@@ -47,12 +49,12 @@ Project List
         Training and validation on CIFAR-10
         Evaluation of model accuracy
 
-8. CNN with Transfer Learning
+9. CNN with Transfer Learning
 
     Description: This project demonstrates transfer learning by using a pre-trained model and fine-tuning it for a specific image classification task.
     Key Techniques: Feature extraction, model fine-tuning, and comparison of performance with and without transfer learning.
 
-9. CNN with Data Augmentation
+10. CNN with Data Augmentation
 
     Description: A CNN model is enhanced by applying data augmentation techniques to improve model generalization on image data.
     Key Sections:
