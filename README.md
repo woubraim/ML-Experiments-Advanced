@@ -16,9 +16,10 @@ Project List
 3. Diabetes Prediction
 
     Description: This notebook implements a model to predict the likelihood of diabetes in patients based on various health metrics. It includes data exploration, feature selection, model training, and evaluation.
-    Key Techniques: Logistic regression, data visualization, and model accuracy assessment.
 
-4. Linear Regression
+   Key Techniques: Logistic regression, data visualization, and model accuracy assessment.
+
+5. Linear Regression
 
     Description: This project demonstrates a simple linear regression model to predict a target variable based on a single or multiple predictors.
    
