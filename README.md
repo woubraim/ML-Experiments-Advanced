@@ -20,8 +20,8 @@ Project List
    Key Techniques:
 
        Logistic regression,
-       data visualization,
-       model accuracy assessment.
+       Data visualization,
+       Model accuracy assessment.
 
 5. Linear Regression
 
