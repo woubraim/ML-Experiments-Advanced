@@ -69,7 +69,8 @@ Project List
 
 How to Use
 
-Each notebook is self-contained and includes all necessary code and explanations to understand the process and results. To run the notebooks, please install the required packages listed in each notebook or in the provided requirements.txt.
+Each notebook is self-contained and includes all necessary code and explanations to understand the process and results. To run the notebooks, please install the required packages listed in each notebook or in the provided requirements.
+
 Requirements
 
 To replicate the projects, use the following Python packages:
